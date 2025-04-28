@@ -1,3 +1,9 @@
+# 数据文件
+*.csv
+
+# vscode
+.vscode/
+
 # Prerequisites
 *.d
 
